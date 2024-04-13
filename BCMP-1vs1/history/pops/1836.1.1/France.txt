@@ -1217,6 +1217,12 @@
         religion = catholic
         size = 1100
     }
+	
+	bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 4750
+    }
 
     clergymen = {
         culture = french
@@ -1248,6 +1254,12 @@
         culture = french
         religion = catholic
         size = 1400
+    }
+	
+	bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 4750
     }
 
     clergymen = {
@@ -1293,6 +1305,12 @@
         culture = french
         religion = catholic
         size = 1400
+    }
+	
+	bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 4750
     }
 
     clergymen = {
@@ -1661,85 +1679,7 @@
     artisans = {
         culture = french
         religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 10000
+        size = 30000
     }
 
     soldiers = {

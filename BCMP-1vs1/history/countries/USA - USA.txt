@@ -14,7 +14,7 @@ set_country_flag = north_american_immigrant_nation
 set_country_flag = south_american_immigrant_nation
 
 #GreaterPowers = prestige
-prestige = 200
+prestige = 12
 
 # Political reforms
 slavery = yes_slavery
